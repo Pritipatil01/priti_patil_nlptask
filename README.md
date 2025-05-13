@@ -29,15 +29,17 @@ This project contains a simple RNN implementation using Keras to:
    - `python src/classification_model.py`
    - `python src/generation_model.py`
 
-## Sample Output
-
 ### Classification
 ```
 Test Accuracy: 1.0
 ```
 
-### Text Generation
-```
+### ✅ Text Generation
+
+**Example Input:**
 science is the study of the structure and behavior of the physical and
-```
+
+**Model Output:**
+science is the study of the structure and behavior of the physical and chemical
+
 
