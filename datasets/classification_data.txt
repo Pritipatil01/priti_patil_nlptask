@@ -1,0 +1,5 @@
+text,label
+The derivative of a function represents its rate of change.,Math
+The mitochondria is the powerhouse of the cell.,Science
+World War II ended in 1945.,History
+Shakespeare was a famous English playwright.,English
